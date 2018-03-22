@@ -2,7 +2,7 @@
 Short Shellscript to create VHost with nginx and shopware
 
 **Why?**
-Shopware needs some specific webserver configurations
+Shopware needs some specific webserver configurations \
 **For who?**
 Webdevelopers who work intensely with shopware and often switch between installations or have +5 installations
 
@@ -19,6 +19,5 @@ WARNING: Choose n if you do NOT want to delete your DOCROOT
 
 
 Thanks to following Repos:
-https://github.com/bcremer/shopware-with-nginx
+https://github.com/bcremer/shopware-with-nginx \
 https://github.com/RoverWire/virtualhost
-
